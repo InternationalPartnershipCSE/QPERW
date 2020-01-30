@@ -39,13 +39,27 @@ Much of recent literature across social science and statistics has called for a 
 ### Participants
 Organizing Committee - John M. Aiken, Marcos D. Caballero, Tor Odden, Morten Hjorth-Jensen, Heather Lewandowski
 
+Invited Speakers - 
+
 ### Sponsored by
 
 Research Council of Norway, INTPART ES634020
 
 ![jila logo][jila]
 ![ccse logo][ccse]
+![uio logo][uio]
+![cu logo][cu]
+![msu logo][msu]
+![osu logo][osu]
 
 [jila]: https://jila.colorado.edu/qip2019/img/sponsors/jila.png "Logo Title Text 2"
 
 [ccse]: https://avatars2.githubusercontent.com/u/30183848?s=400&v=4 "ccse title"
+
+[uio]: https://uarctic.vps02.fwstatic.download/media/1077/university-of-oslo-logo.png "uio logo"
+
+[cu]: https://secondnature.org/wp-content/uploads/CU-Boulder-logo-horizontal.jpg "cu logo"
+
+[msu]: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Michigan_State_University_wordmark.svg/1280px-Michigan_State_University_wordmark.svg.png "msu logo"
+
+[osu]: https://communications.oregonstate.edu/sites/communications.oregonstate.edu/files/osu-primarylogo-2-compressor.jpg "osu logo"
