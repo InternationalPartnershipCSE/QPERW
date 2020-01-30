@@ -41,6 +41,11 @@ Organizing Committee - John M. Aiken, Marcos D. Caballero, Tor Odden, Morten Hjo
 
 ### Sponsored by
 
-![alt text][logo]
+Research Council of Norway, INTPART ES634020
 
-[logo]: https://jila.colorado.edu/qip2019/img/sponsors/jila.png "Logo Title Text 2"
+![jila logo][jila]
+![ccse logo][ccse]
+
+[jila]: https://jila.colorado.edu/qip2019/img/sponsors/jila.png "Logo Title Text 2"
+
+[ccse]: https://avatars2.githubusercontent.com/u/30183848?s=400&v=4 "ccse title"
