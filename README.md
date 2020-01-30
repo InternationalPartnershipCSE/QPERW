@@ -38,7 +38,7 @@ Invited Speakers -
 
 ### Sponsored by
 
-This workshop is organized by an international partnership between Michigan State University, Oregon State University, the University of Colorado at Boulder and the University of Oslo. The University of Oslo with its center of excellence in Education _Center for Computing in Science Education_, is the leading institution. The partnership is sponsored by the Norwegian Research Council under the International Partnership program INTPART (Research Council of Norway, INTPART ES634020).
+This workshop is organized by an international partnership between Michigan State University, Oregon State University, the University of Colorado at Boulder and the University of Oslo. The University of Oslo with its center of excellence in Education _Center for Computing in Science Education_, is the leading institution. The partnership is sponsored by the Norwegian Research Council under the International Partnership program INTPART (Research Council of Norway, INTPART ES634020) and JILA NSF Physics Frontier Center PHY-1734006.
 
 ![jila logo][jila]
 ![ccse logo][ccse]
