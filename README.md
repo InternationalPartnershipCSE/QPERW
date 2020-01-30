@@ -38,3 +38,7 @@ Much of recent literature across social science and statistics has called for a 
 
 ### Participants
 Organizing Committee - John M. Aiken, Marcos D. Caballero, Tor Odden, Morten Hjorth-Jensen, Heather Lewandowski
+
+### Sponsored by
+
+[logo]: https://jila.colorado.edu/qip2019/img/sponsors/jila.png "Logo Title Text 2"
