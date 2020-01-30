@@ -4,11 +4,6 @@ Welcome to the website for the workshop on Quantitative Physics Education Resear
 
 ## Introduction
 
-This workshop is organized by an international partnership between Michigan State University,
-Oregon State University, the University of Colorado at Boulder and the University of Oslo. The University of Oslo with its 
-center of excellence in Education _Center for Computing in Science Education_, is the leading institution.  
-The partnership is sponsored by the Norwegian Research Council under the International Partnership program INTPART (add link). 
-
 The present workshop aims at gathering people from the cross cutting fields of physics education research (PER), statistics, computational social science, and educational data mining to come together for three days to discuss the current and future state of quantitative PER. Organized under three overarching topics of of data sources, statistical methods, and visualization tools this workshop has the ambitious goal of:
 
 - Identify new research directions in PER that can be answered via quantitative analysis
@@ -43,7 +38,7 @@ Invited Speakers -
 
 ### Sponsored by
 
-Research Council of Norway, INTPART ES634020
+This workshop is organized by an international partnership between Michigan State University, Oregon State University, the University of Colorado at Boulder and the University of Oslo. The University of Oslo with its center of excellence in Education _Center for Computing in Science Education_, is the leading institution. The partnership is sponsored by the Norwegian Research Council under the International Partnership program INTPART (Research Council of Norway, INTPART ES634020).
 
 ![jila logo][jila]
 ![ccse logo][ccse]
