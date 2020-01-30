@@ -41,4 +41,6 @@ Organizing Committee - John M. Aiken, Marcos D. Caballero, Tor Odden, Morten Hjo
 
 ### Sponsored by
 
+![alt text][logo]
+
 [logo]: https://jila.colorado.edu/qip2019/img/sponsors/jila.png "Logo Title Text 2"
