@@ -2,11 +2,11 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: page
+layout: default
 ---
 <img src="https://jila.colorado.edu/sites/default/files/styles/banner_image/public/images/2018-11/campus_boulder_arial.jpg">
 
-# Workshop on Quantitative Physics Education Research 2020
+# Workshop on Quantitative Physics Education Research 2020: June 8-10, Boulder, Colorado
 
 The present workshop aims at gathering people from the cross cutting fields of physics education research (PER), statistics, computational social science, and educational data mining to come together for three days to discuss the current and future state of quantitative PER. Organized under three overarching topics of of data sources, statistical methods, and visualization tools this workshop has the ambitious goal of:
 
