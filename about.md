@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-permalink: /QPERW/about/
+permalink: /about/
 ---
 
 Background
