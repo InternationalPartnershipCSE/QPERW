@@ -4,6 +4,8 @@
 
 layout: page
 ---
+<img src="https://jila.colorado.edu/sites/default/files/styles/banner_image/public/images/2018-11/campus_boulder_arial.jpg">
+
 # Workshop on Quantitative Physics Education Research 2020
 
 Welcome to the website for the workshop on Quantitative Physics Education Research. 
@@ -60,3 +62,5 @@ This workshop is organized by an international partnership between Michigan Stat
 [msu]: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Michigan_State_University_wordmark.svg/1280px-Michigan_State_University_wordmark.svg.png "msu logo"
 
 [osu]: https://communications.oregonstate.edu/sites/communications.oregonstate.edu/files/osu-primarylogo-2-compressor.jpg "osu logo"
+
+[mtevans]: /_assets/mtevans.jpeg "mtevans"
