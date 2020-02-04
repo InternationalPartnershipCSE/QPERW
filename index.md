@@ -44,13 +44,20 @@ Invited Speakers -
 
 This workshop is organized by an international partnership between Michigan State University, Oregon State University, the University of Colorado at Boulder and the University of Oslo. The University of Oslo with its center of excellence in Education _Center for Computing in Science Education_, is the leading institution. The partnership is sponsored by the Norwegian Research Council under the International Partnership program INTPART (Research Council of Norway, INTPART ES634020) and JILA NSF Physics Frontier Center PHY-1734006.
 
-![jila logo][jila]
+<img src="https://jila.colorado.edu/qip2019/img/sponsors/jila.png" width="200"/>
+<img src="https://avatars2.githubusercontent.com/u/30183848?s=400&v=4" width="200"/>
+<img src="https://uarctic.vps02.fwstatic.download/media/1077/university-of-oslo-logo.png" width="200"/>
+<img src="https://secondnature.org/wp-content/uploads/CU-Boulder-logo-horizontal.jpg" width="200"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Michigan_State_University_wordmark.svg/1280px-Michigan_State_University_wordmark.svg.png" width="200"/>
+<img src="https://communications.oregonstate.edu/sites/communications.oregonstate.edu/files/osu-primarylogo-2-compressor.jpg" width="200"/>
+
+<!-- ![jila logo][jila]
 ![ccse logo][ccse]
 ![uio logo][uio]
 ![cu logo][cu]
 ![msu logo][msu]
-![osu logo][osu]
-
+![osu logo][osu] -->
+<!-- 
 [jila]: https://jila.colorado.edu/qip2019/img/sponsors/jila.png "Logo Title Text 2"
 
 [ccse]: https://avatars2.githubusercontent.com/u/30183848?s=400&v=4 "ccse title"
@@ -61,6 +68,6 @@ This workshop is organized by an international partnership between Michigan Stat
 
 [msu]: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Michigan_State_University_wordmark.svg/1280px-Michigan_State_University_wordmark.svg.png "msu logo"
 
-[osu]: https://communications.oregonstate.edu/sites/communications.oregonstate.edu/files/osu-primarylogo-2-compressor.jpg "osu logo"
+[osu]: https://communications.oregonstate.edu/sites/communications.oregonstate.edu/files/osu-primarylogo-2-compressor.jpg "osu logo" -->
 
-[mtevans]: /_assets/mtevans.jpeg "mtevans"
+<!-- [mtevans]: /_assets/mtevans.jpeg "mtevans" -->
