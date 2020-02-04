@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+permalink: /QPERW/
 ---
 <img src="https://jila.colorado.edu/sites/default/files/styles/banner_image/public/images/2018-11/campus_boulder_arial.jpg">
 
